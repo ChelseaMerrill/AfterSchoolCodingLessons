@@ -1,0 +1,14 @@
+#screen{
+    width: 200px;
+    height: 20px;
+    border: solid;
+}
+
+#keyboard{
+    border: solid;
+}
+
+.row{
+    display: flex;
+    justify-content: space-evenly;
+}
