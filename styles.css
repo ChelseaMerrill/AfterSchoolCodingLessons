@@ -1,14 +1,25 @@
 #screen{
-    width: 200px;
-    height: 20px;
+    width: 400px;
+    height: 60px;
     border: solid;
 }
 
 #keyboard{
     border: solid;
+    width: 1000px;
+    height: 350px;
+    color: blueviolet;
+    background-image: url('photo.jpg');
 }
 
 .row{
     display: flex;
     justify-content: space-evenly;
+    margin: 20px;
+}
+
+.button{
+    border: solid;
+    border-radius: 10px;
+    padding: 20px;
 }
