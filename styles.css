@@ -1,0 +1,51 @@
+#screen{
+    width: 650px;
+    height: 300px;
+    color: rgb(53, 94, 59);
+    margin-left: 80px;
+    font-size: 32pt;
+    word-wrap: break-word;
+  }
+  
+  .screenBr{
+    height: 500px;
+    width: 800px;
+    background-image: url('https://img.favpng.com/17/3/4/computer-monitor-drawing-cartoon-png-favpng-fGEexiviaDW59uhgpxGrp5L5m.jpg');
+  padding-top: 20px;
+  }
+  
+  #keyboard{
+    border: solid 10px rgb(35,74,92);
+    border-radius: 5%;
+    width: 800px;
+    height: 400px;
+    align-items: center;
+    background-color: gray;
+  }
+  
+  .row{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+  }
+  
+  .button{
+    border: solid rgb(35,74,92) 5px;
+    padding: 20px;
+    color: rgb(35,74,92);
+    font-weight: 600;
+    border-radius: 5%;
+    background-color: rgb(200,200,200);
+  }
+  
+  .letter{
+    border-radius: 50%;
+  }
+  
+  .fullDoc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
