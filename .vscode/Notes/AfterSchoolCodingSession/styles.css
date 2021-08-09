@@ -1,0 +1,41 @@
+h1{
+    color:rgb(230,31,42);
+    font-size: 50pt;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32pt;
+}
+
+p{
+    font-size: 24px;
+}
+
+.container1{
+    border: dotted red;
+    margin-bottom: 20px;
+    margin: fit-content;
+}
+
+.container2{
+    padding: 20px;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+}
+
+img{
+    width: 1000px;
+    height: auto;
+}
+
+.container3{
+    border: solid yellow;
+    margin-right: 80px;
+    margin-left: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+}
