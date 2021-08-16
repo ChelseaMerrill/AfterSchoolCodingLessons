@@ -1,0 +1,24 @@
+#screen{
+    border: 3px dotted blueviolet;
+    width:600px;
+    height: 100px;
+    background-color: burlywood;
+}
+
+#keyboard{
+    border: 3px solid orangered;
+    width: 600px;
+    height: 300px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    border: 1px solid;
+    padding: 12px;
+    font-size: 20pt;
+    margin: 5px;
+}
